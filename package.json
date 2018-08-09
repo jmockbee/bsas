@@ -2,5 +2,7 @@
   "name": "bsas",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git@github.com:jmockbee/bsas.git",
+  "author": "jmockbee <mockbee1000@gmail.com>"
 }
